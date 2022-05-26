@@ -11,7 +11,7 @@ def odd_num(lst):
         for j in n:
             updated_list.append(j)
 
-    # Determins if there are any odds
+    # Determines if there are any odds
     odds = []
     for u in updated_list:
         if u % 2 != 0:
